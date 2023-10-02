@@ -1,2 +1,2 @@
 # Capstone-Project---Regression
-Transport Demand Pridiction 
+Transport Demand Prediction 
